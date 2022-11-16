@@ -1,6 +1,3 @@
-# Welcome to UCF's Data Science and Statistics GitHub
+![ucf-network-generic](https://user-images.githubusercontent.com/37667642/202091526-c263e1d2-7aba-4fca-8382-7e1ebead1bbd.jpg)
 
-The UCF Department of Statistics & Data Science instructs students in a wide variety of methods for collection, analysis, interpretation, presentation, and organization of data. Students in our programs gain knowledge and technical skills necessary to use complex data in many different applications. The department offers three undergraduate degrees: one in Statistics, one in Actuarial Science, and one in Data Science. Graduate degree offered by the department include an M.S. degree with two tracks in Data Mining and Statistical Computing, a SAS certificate program, and a Ph.D. degree in Big Data Analytics.
-
-Please see our [website](https://sciences.ucf.edu/statistics/) for more information.
-
+The [UCF Department of Statistics & Data Science](https://sciences.ucf.edu/statistics/) instructs students in a wide variety of methods for collection, analysis, interpretation, presentation, and organization of data. Students in our programs gain knowledge and technical skills necessary to use complex data in many different applications. The department offers three undergraduate degrees: one in Statistics, one in Actuarial Science, and one in Data Science. Graduate degree offered by the department include an M.S. degree with two tracks in Data Mining and Statistical Computing, a SAS certificate program, and a Ph.D. degree in Big Data Analytics.
